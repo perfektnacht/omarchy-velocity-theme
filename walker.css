@@ -1,0 +1,6 @@
+@define-color selected-text #FF8C42; /* orange */
+@define-color text #4A9EF1;          /* bright blue */
+@define-color base #0A0A0A;           /* carbon black */
+A@define-color border #FF4757;       /* red */
+@define-color foreground #F8F8F2;    /* white */
+@define-color background #2D2D30;    /* gray */

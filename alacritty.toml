@@ -1,0 +1,41 @@
+[colors.primary]
+background = '#0A0A0A'  # Carbon black cockpit
+foreground = '#F8F8F2'  # Platinum text
+
+[colors.cursor]
+text = 'CellBackground'
+
+[colors.selection]
+text = '#F8F8F2'        # Platinum text
+background = '#4A9EF1'  # Steel blue selection
+
+# Racing flag inspired colors
+[colors.normal]
+black = '#0D0D0D'       # Matte black
+red = '#FF4757'         # Velocity red
+green = '#4ADF86'       # Success green
+yellow = '#FF8C42'      # Warning orange
+blue = '#4A9EF1'        # Steel blue
+magenta = '#BD93F9'     # Purple accent
+cyan = '#4A9EF1'        # Neon cyan (blue for fastfetch)
+white = '#BBBBBB'       # Silver
+
+[colors.bright]
+black = '#888888'       # Chrome
+red = '#FF6B6B'         # Bright velocity red
+green = '#51FA7B'       # Bright success green
+yellow = '#FFD93D'      # Gold yellow
+blue = '#6DB3F2'        # Bright steel blue
+magenta = '#C78BFF'     # Bright purple
+cyan = '#8BE9FD'        # Bright neon cyan
+white = '#F8F8F2'       # Platinum
+
+[colors.dim]
+black = '#0A0A0A'       # Carbon black
+red = '#CC3A41'         # Dim red
+green = '#2BB656'       # Dim green
+yellow = '#A6810D'      # Dim yellow
+blue = '#3F7CAC'        # Dim blue
+magenta = '#8E44AD'     # Dim magenta
+cyan = '#16A085'        # Dim cyan
+white = '#888888'       # Chrome
