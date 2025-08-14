@@ -53,6 +53,7 @@ Velocity provides comprehensive styling for all Omarchy components:
 - **Waybar** - Racing dashboard with performance indicators
 - **Walker** - Sleek application launcher with racing HUD aesthetics
 - **Mako** - Racing-themed notifications with urgency color coding
+- Chromium - Steel blue coloration added
 
 ### Development Tools
 - **Alacritty** - Carbon black terminal with racing color palette
