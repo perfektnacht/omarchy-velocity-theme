@@ -5,9 +5,9 @@ A high-performance, racing-inspired theme for DHH's Omarchy that combines the pr
 
 ## Screenshots
 
-![Velocity Desktop](https://raw.githubusercontent.com/perfektnacht/omarchy-velocity-theme/main/assets/velocity-desktop.png)
+![Velocity Desktop](https://raw.githubusercontent.com/perfektnacht/omarchy-velocity-theme/master/assets/velocity-desktop.png)
 
-![Background](https://raw.githubusercontent.com/perfektnacht/omarchy-velocity-theme/main/assets/background.png)
+![Background](https://raw.githubusercontent.com/perfektnacht/omarchy-velocity-theme/master/assets/background.png)
 
 *Background image by [Niklas Hamann](https://unsplash.com/@niklas_hamann) on Unsplash*
 
